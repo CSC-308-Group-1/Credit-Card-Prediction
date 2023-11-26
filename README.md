@@ -27,7 +27,7 @@ Grid search with cross-validation is employed to find the best hyperparameters f
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone <(https://github.com/CSC-308-Group-1/Credit-Cart-Prediction/tree/main)>
 
 
 
